@@ -1,14 +1,15 @@
 # SuperComputação
 
-Bem vindo ao curso de SuperComputação 2023/1. 
+Bem vindo ao curso de SuperComputação 2023/2 
 
 * **Professores**: 
     * André Filipe M. Batista
-    * Luciano Silva
+    * Michel Fornaciali
 
 * **Horário das aulas**:
-    * Turma A - Prof. André Filipe:  Quarta - 13h30, Sexta - 07h30
-    * Turma B - Prof. Luciano Silva:  Terça - 09h45, Sexta - 13h30
+    * Turma 1 - Prof. Michel Fornaciali:  Terça - 09h45, Sexta - 13h30
+     * Turma 2 - Prof. André Batista: Quarta - 13h30, Sexta - 07h30
+    
 
 
 ## Avaliação
@@ -16,7 +17,8 @@ Bem vindo ao curso de SuperComputação 2023/1.
 A avaliação da disciplina será composta por provas, projetos e atividades de acompanhamentos:
 
 * Provas Intermediária (PI) e Final (PF) serão compostas por exercícios práticos a serem feitos durante o tempo de prova;
-* O projeto da disciplina será composto por múltiplas partes. [Mais detalhes na página de projetos](projetos)
+* O projeto da disciplina será composto por múltiplas partes. 
+<!-- [Mais detalhes na página de projetos](projetos) -->
 
 A média final é dada por 
 
